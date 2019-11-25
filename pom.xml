@@ -9,6 +9,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>system_inout_demo</module>
+        <module>test-git</module>
     </modules>
     <packaging>pom</packaging>
 
